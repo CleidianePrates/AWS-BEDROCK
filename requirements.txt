@@ -1,5 +1,6 @@
 boto3
 awscli
+pypdf
+langchain
 streamlit
-
-##mozao teste
+faiss-cpu
