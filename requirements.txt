@@ -4,4 +4,4 @@ pypdf
 langchain
 streamlit
 faiss-cpu
-langchain_communitypip
+langchain_community
