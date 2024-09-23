@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-import boto3
+import boto3  ##Biblioteca AWS SDK para Python, usada para interagir com os serviços da AWS.
 import streamlit as st
 
 ## We will be suing Titan Embeddings Model To generate Embedding
